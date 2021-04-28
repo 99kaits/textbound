@@ -1,5 +1,5 @@
 # Starman III
-Earthbound markov chain text generator, made in python with a flask frontend
+markov chain text generator that generates nonsense text vaguely resembling earthbound
 
 ## how to use
 - clone the repo or download it as a zip
