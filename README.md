@@ -1,11 +1,12 @@
 # Starman III
 markov chain text generator that generates nonsense text vaguely resembling earthbound (with a web frontend!! wow!!!!)
+https://starman-iii.herokuapp.com/
 
 ## how to use
 - clone the repo or download it as a zip
-- run `pip install flask` if you dont have flask already
-- run the `main.py` with `python3 main.py`
-- open a web browser to `http://localhost:5000`
+- run `pip install -r requriements`(preferably in a venv)
+- run `gunicorn main:app`
+- open a web browser to `http://localhost:8000`
 - refresh the page for new text
 
 ## credits

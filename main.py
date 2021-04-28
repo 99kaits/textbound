@@ -36,4 +36,4 @@ def generate():
     return (render_template('index.html', text=result))
 
 if __name__ == "__main__":
-    app.run()
+    app.run(threaded=True)
