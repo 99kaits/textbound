@@ -1,5 +1,5 @@
 # Starman III
-markov chain text generator that generates nonsense text vaguely resembling earthbound
+markov chain text generator that generates nonsense text vaguely resembling earthbound (with a frontend!! wow!!!!)
 
 ## how to use
 - clone the repo or download it as a zip
