@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Starman III - Earthbound Markov Generator</title>
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+
+            #textbox-bg {
+                display: block;
+                background-image: url('/static/textbox.png');
+                width: 608px;
+                height 256px;
+                min-height: 256px;
+                overflow: hidden;
+                margin: auto;
+            }
+             #text {
+                color: #e8e6b2;
+                padding: 32px;
+             }
+        </style>
+    </head>
+    <body>
+        <center>
+            <h1>Starman III</h1>
+            <p><em>Earthbound Markov Generator</em></p>
+        </center>
+        <div id="textbox-bg">
+            <h2 id="text">{{ text }}</h2>
+        </div>
+    </body>
+</html>
