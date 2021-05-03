@@ -13,6 +13,7 @@ https://starman-iii.herokuapp.com/
 ## discord bot
 yeah i got a discord bot now B^)
 also on heroku here: https://discord.com/oauth2/authorize?client_id=610159887619719179&scope=bot&permissions=52224
+if it doesnt work try going to the heroku site above, free tier puts it to sleep sometimes :((((
 you can run your own by doing the first two steps above and then
 - put your discord bot token in `token.txt`, you can get this at the developer portal
 - make a link and invite it into your server (google can help here!)
