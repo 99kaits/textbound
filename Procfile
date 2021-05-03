@@ -1,2 +1,1 @@
-web: gunicorn main:app
-discord: python bot.py
+web: gunicorn main:app & python bot.py & wait -n
